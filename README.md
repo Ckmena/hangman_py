@@ -1,2 +1,2 @@
 # Hangman Game
-sort hangman game built on python
+short hangman game built on python
